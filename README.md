@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-Google-Playstore
+# Exploratory-Data-Analysis-Electric Vehicle and Population
 View the project on Jovian: https://jovian.com/sunithapachala93/eda-project-electric-vehicle
 
 The goal of this project is to analyse and visualise the Electric Vehicle dataset from Kaggle using Python (Matplotlib, seaborn and plotly).
